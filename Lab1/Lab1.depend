@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603820110 source:c:\users\hp\onedrive\documents\100299_ccprojects\lab1\main.cpp
+	<iterator>
+	<iostream>
+	<string>
+	<regex>
+	<list>
+	<map>
+
